@@ -17,8 +17,7 @@ This modal includes an overlay, open/close functionality, and is fully responsiv
 
 ## 📸 Screenshot
 
-> Add a screenshot of your modal here  
-> ![Modal Screenshot](./screenshot.png)
+> ![Modal Screenshot](./src/assets/screencapture-localhost-5173-2025-09-24-12_51_35.png) > ![Modal Screenshot](./src/assets/screencapture-localhost-5173-2025-09-24-12_52_04.png)
 
 ---
 
